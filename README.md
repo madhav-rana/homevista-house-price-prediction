@@ -65,11 +65,6 @@ Load Data → EDA → Preprocessing → Feature Scaling → Model Training → E
 
 The model explains **61.2%** of the variation in house prices.
 
-### Key findings
-
-- `TotalBsmtSF`, `YearBuilt`, and `YearRemodAdd` are the strongest predictors of `SalePrice`
-- `BsmtFinSF2` and `MSSubClass` had near-zero correlation with the target and contribute minimally
-- `SalePrice` is right-skewed — a log transformation is a potential improvement
 
 ---
 
