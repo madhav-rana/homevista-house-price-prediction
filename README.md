@@ -116,4 +116,3 @@ jupyter
 
 **Madhav Singh Rana**  
 B.Tech CSE
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
