@@ -81,7 +81,7 @@ The model explains **61.2%** of the variation in house prices.
 ---
 
 ## Clone the repository
-git clone git@github.com:madhav-rana/homevista-house-price-prediction.git
+git clone https://github.com/madhav-rana/homevista-house-price-prediction.git
 
 cd house-price-prediction-linear-regression
 
