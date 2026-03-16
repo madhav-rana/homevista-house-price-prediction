@@ -82,6 +82,7 @@ The model explains **61.2%** of the variation in house prices.
 
 ## Clone the repository
 git clone https://github.com/yourusername/house-price-prediction-linear-regression.git
+
 cd house-price-prediction-linear-regression
 
 
